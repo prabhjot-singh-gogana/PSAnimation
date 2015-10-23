@@ -1,4 +1,4 @@
-
+![alt tag](https://github.com/prabhjot-singh-gogana/PSAnimation/blob/master/ezgif.com-video-to-gif.gif)
 # PSAnimation
 A library to simplify iOS animations in Swift.
 ##Installation
